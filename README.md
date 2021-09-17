@@ -18,7 +18,7 @@
 - Firmalar ekranı
 - Personeller ekranı
 - Giderler ekranı
-- Ayarlar ekranı
+- Ayarlar ekranı 
 
 ![tic1](https://user-images.githubusercontent.com/56233140/133460307-137065c0-a6ce-4e07-9688-6e52a6feb097.jpg)
 ![tic2](https://user-images.githubusercontent.com/56233140/133460313-d26ba86a-b0fa-4fdb-90a8-75f6cf303923.jpg)
